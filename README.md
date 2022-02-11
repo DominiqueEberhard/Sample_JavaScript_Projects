@@ -1,0 +1,2 @@
+# Sample_JavaScript_Projects
+These "short" files are my solutions to the JavaScript Data Structures and Algorithms challenges on FreeCodeCamp.org. Although I completed all five of the challenges to receive the Data Structures and Algorithms certification from FreeCodeCamp.org and will include them all in this repository, I suggest you look at the "cash register" file or "roman numeral converter" if you are short on time, but still want to get an idea of what I have been up to with regard to JavaScript.
